@@ -1,2 +1,2 @@
 # CS505_Telco_Churn_Project
-Customer churn analysis using Apriori, clustering, classification, and advanced machine learning techniques on the IBM Telco dataset.
+This repository contains the implementation of a customer churn analysis project based on the IBM Telco Customer Churn dataset. The project follows a complete data mining workflow including data preparation, association rule mining, clustering, classification, class imbalance analysis, model comparison, and business recommendations. All analyses are implemented in Python using Google Colab to ensure reproducibility and accessibility.
